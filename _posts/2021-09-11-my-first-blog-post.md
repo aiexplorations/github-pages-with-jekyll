@@ -1,3 +1,8 @@
+---
+title: "My first Github.io blog post"
+date: 2021-09-11
+---
+
 # First Github.io blog post
 
 I'm writing this post to experiment with Jekyll, the Github workflows and other cool stuff which enables direct publishing of blogs from a markdown script.
